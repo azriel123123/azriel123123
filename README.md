@@ -1,42 +1,68 @@
 <h1 align="center">Hi 👋, I'm Muhamad Azriel Ilham</h1>
-<h3 align="center">A passionate Frontend & Mobile Developer from Indonesia</h3>
+<h3 align="center">A passionate Frontend & Mobile Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
-  🎓 I'm a student at <strong>X RPL</strong>, IDN Boarding School Sentul  
-  <br>
-  💻 I love building beautiful and functional interfaces for web and mobile apps  
-  <br>
-  🚀 Always learning new technologies to improve my skills
+  🔭 Currently working on personal and school projects<br>
+  🌱 Currently learning <strong>Flutter, Laravel, and React</strong><br>
+  💬 Ask me about <strong>Frontend, Mobile Dev, or PHP</strong><br>
+  📫 How to reach me: <strong>Coming soon...</strong><br>
+  😄 Fun fact: I code better with music 🎧<br>
 </p>
 
 ---
 
-### 📫 Connect with me
-<!-- Tambahkan link sosial media di sini -->
+### 🌐 Socials
 <p align="left">
-  <!-- Contoh: -->
-  <!-- <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a> -->
+  <a href="https://instagram.com/your_username" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- Tambahkan lebih banyak jika ada -->
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 💻 Tech Stack
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/></a>
-  <a href="https://dart.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Azriel's GitHub Stats"/>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Azriel's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
+---
+
+### 🧠 My Learning Journey
+
+```text
+📌 2023:
+- Belajar HTML, CSS, JS dasar
+- Bikin landing page sendiri
+
+📌 2024:
+- Fokus Laravel + Flutter
+- Mulai belajar React
+- Ngerjain beberapa project sekolah
+
+📌 2025:
+- Target kontribusi ke open source
+- Bikin aplikasi mobile publik
+
+💡 Motto: “Code, Learn, Repeat.”
+🥤 Favorite drink: Woffee (Waktu + Coffee 😄)
+🎵 Coding music: Lofi Beats / Chillhop / EDM
+⌨️ Keyboard shortcut master
+🔥 Always down for hackathons!
